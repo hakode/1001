@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-master
-=======
-s2
->>>>>>> s2
+ this is master
